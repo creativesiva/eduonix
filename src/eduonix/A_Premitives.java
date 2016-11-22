@@ -6,7 +6,7 @@ public class A_Premitives {
 		int number = -10;
 		double decimal = 20.25;
 		int sum = (int)(number + decimal);
-		boolean myBool = true;
+		boolean myBool = false;
 		System.out.println(sum);
 		if (myBool){
 			System.out.println("I am siva prasad");
